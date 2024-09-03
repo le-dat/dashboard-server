@@ -1,4 +1,4 @@
-# Beincom API
+# DASHBOARD API
 
 This project provides a basic authentication API using Node.js, Express, TypeScript, and MongoDB with Mongoose.
 
@@ -40,7 +40,7 @@ It includes endpoints for
     REFRESH_TOKEN_SECRET=secretkeytaiday
 
     # MONGO DATABASE
-    DATABASE_NAME=beincom-server
+    DATABASE_NAME=dashboard-server
     USERNAME_DB=le-dat
     PASSWORD_DB=le-dat
     CLIENT_ID=AXlfyJ2QROzOTSv_v9dNbFStavQmkh0HAhaVSB7cTJARukMq30pIKUUGuHrw1mMPu7zrHqj4LuKYjXrT
